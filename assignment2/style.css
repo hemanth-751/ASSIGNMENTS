@@ -1,0 +1,97 @@
+.navbar {
+    background-color: #333;
+    color: white;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li {
+    margin-left: 25px;
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+.nav-links li a:hover {
+    color: #ffcc00;
+}
+
+
+body {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.parent {
+    display: grid;
+    margin-left: 80px;
+    margin-top: 50px;
+    grid-template-columns: 400px 500px 300px;
+    justify-content: center;
+
+}
+
+.course1 {
+    border-radius: 10px;
+    background-color: rgb(243, 240, 240);
+    margin-right: 10px;
+    margin-bottom: 50px;
+
+
+}
+
+.course2 {
+    border-radius: 10px;
+    background-color: rgb(243, 240, 240);
+    margin-right: 10px;
+    margin-bottom: 50px;
+
+}
+
+.course3 {
+    border-radius: 10px;
+    background-color: rgb(243, 240, 240);
+    margin-right: 10px;
+    margin-bottom: 50px;
+
+}
+
+.course4 {
+    border-radius: 10px;
+    background-color: rgb(243, 240, 240);
+    margin-right: 10px;
+    margin-bottom: 50px;
+
+}
+
+.course5 {
+    border-radius: 10px;
+    background-color: rgb(243, 240, 240);
+    margin-right: 10px;
+    margin-bottom: 50px;
+
+}
+
+.course6 {
+    border-radius: 10px;
+    background-color: rgb(243, 240, 240);
+    margin-right: 10px;
+    margin-bottom: 50px;
+
+}
